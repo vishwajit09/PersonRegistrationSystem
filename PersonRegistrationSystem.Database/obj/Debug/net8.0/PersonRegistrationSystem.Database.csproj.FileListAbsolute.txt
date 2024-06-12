@@ -1,0 +1,14 @@
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/bin/Debug/net8.0/PersonRegistrationSystem.Database.deps.json
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/bin/Debug/net8.0/PersonRegistrationSystem.Database.runtimeconfig.json
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/bin/Debug/net8.0/PersonRegistrationSystem.Database.dll
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/bin/Debug/net8.0/PersonRegistrationSystem.Database.pdb
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.csproj.AssemblyReference.cache
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.AssemblyInfoInputs.cache
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.AssemblyInfo.cs
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.csproj.CoreCompileInputs.cache
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.dll
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/refint/PersonRegistrationSystem.Database.dll
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.pdb
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/PersonRegistrationSystem.Database.genruntimeconfig.cache
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Database/obj/Debug/net8.0/ref/PersonRegistrationSystem.Database.dll

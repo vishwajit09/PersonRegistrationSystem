@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: PersonRegistrationSystem.Tests.Database",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/PersonRegistrationSystem.Tests.Database/PersonRegistrationSystem.Tests.Database.csproj",
+            "launchConfigurationId": "TargetFramework=;PersonRegistrationSystem.Tests.Database"
+        }
+    ]
+}
