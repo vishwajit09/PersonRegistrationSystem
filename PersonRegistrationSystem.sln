@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRegistrationSystem.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRegistrationSystem.BussinessLogic", "PersonRegistrationSystem.BussinessLogic\PersonRegistrationSystem.BussinessLogic.csproj", "{59DF1719-9909-460B-A078-B1C3CBC2F51E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRegistrationSystem.Tests.Database", "PersonRegistrationSystem.Tests.Database\PersonRegistrationSystem.Tests.Database.csproj", "{9C451EB0-73B6-476B-99E7-F665902C96B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRegistrationSystem.Tests", "PersonRegistrationSystem.Tests.Database\PersonRegistrationSystem.Tests.csproj", "{9C451EB0-73B6-476B-99E7-F665902C96B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

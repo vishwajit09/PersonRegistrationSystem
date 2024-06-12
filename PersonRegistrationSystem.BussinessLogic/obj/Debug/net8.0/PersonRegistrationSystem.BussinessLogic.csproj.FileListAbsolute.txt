@@ -8,6 +8,7 @@
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRegistrationSystem.BussinessLogic.AssemblyInfoInputs.cache
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRegistrationSystem.BussinessLogic.AssemblyInfo.cs
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRegistrationSystem.BussinessLogic.csproj.CoreCompileInputs.cache
+/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRegistrationSystem.BussinessLogic.sourcelink.json
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRe.512E71BE.Up2Date
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/PersonRegistrationSystem.BussinessLogic.dll
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.BussinessLogic/obj/Debug/net8.0/refint/PersonRegistrationSystem.BussinessLogic.dll

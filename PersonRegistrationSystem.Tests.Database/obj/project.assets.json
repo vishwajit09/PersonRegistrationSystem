@@ -9261,9 +9261,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/PersonRegistrationSystem.Tests.Database.csproj",
-      "projectName": "PersonRegistrationSystem.Tests.Database",
-      "projectPath": "/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/PersonRegistrationSystem.Tests.Database.csproj",
+      "projectUniqueName": "/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/PersonRegistrationSystem.Tests.csproj",
+      "projectName": "PersonRegistrationSystem.Tests",
+      "projectPath": "/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/PersonRegistrationSystem.Tests.csproj",
       "packagesPath": "/Users/vishwajitsingh/.nuget/packages/",
       "outputPath": "/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/",
       "projectStyle": "PackageReference",

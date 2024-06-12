@@ -36,7 +36,7 @@ public class PersonalInformationSpecimenBuilder : ISpecimenBuilder
         {
             return new PersonInformationResponse
             {
-
+                Id = 1,
                 Name = "Test",
                 LastName = "LastName",
                 Gender = "Male",
