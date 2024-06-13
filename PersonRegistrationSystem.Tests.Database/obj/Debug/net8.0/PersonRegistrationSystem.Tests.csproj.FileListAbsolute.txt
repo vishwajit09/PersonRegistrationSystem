@@ -159,7 +159,6 @@
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRegistrationSystem.Tests.AssemblyInfoInputs.cache
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRegistrationSystem.Tests.AssemblyInfo.cs
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRegistrationSystem.Tests.csproj.CoreCompileInputs.cache
-/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRegistrationSystem.Tests.sourcelink.json
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRe.4D295C25.Up2Date
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/PersonRegistrationSystem.Tests.dll
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem.Tests.Database/obj/Debug/net8.0/refint/PersonRegistrationSystem.Tests.dll

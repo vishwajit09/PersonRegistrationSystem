@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{F80D25C6-C4AF-4EBC-A4C1-05970D8C82E6}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PersonRegistrationSystem PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="PersonRegistrationSystem.Database/Services/PlaceOfResidenceRepository.cs">
     <Files>
       <File FileName="PersonRegistrationSystem.Database/Services/PlaceOfResidenceRepository.cs" Line="5" Column="32" />
-      <File FileName="PersonRegistrationSystem.Database/Models/PlaceOfResidence.cs" Line="1" Column="1" />
-      <File FileName="PersonRegistrationSystem.Database/Services/PersonInformationRepository.cs" Line="5" Column="35" />
+      <File FileName="PersonRegistrationSystem.Database/Models/PlaceOfResidence.cs" />
+      <File FileName="PersonRegistrationSystem.Database/Services/PersonInformationRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PersonRegistrationSystem" expanded="True">
+          <Node name="PersonRegistrationSystem" selected="True">
             <Node name="PersonRegistrationSystem.Database" expanded="True">
               <Node name="Extensions" expanded="True" />
               <Node name="Interfaces" expanded="True" />
@@ -20,12 +25,12 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PersonRegistrationSystem" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.PersonRegistrationSystem PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

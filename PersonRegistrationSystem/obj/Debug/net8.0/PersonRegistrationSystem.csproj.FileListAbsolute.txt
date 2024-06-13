@@ -131,7 +131,6 @@
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/PersonRegistrationSystem.csproj.CoreCompileInputs.cache
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/PersonRegistrationSystem.MvcApplicationPartsAssemblyInfo.cs
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/PersonRegistrationSystem.MvcApplicationPartsAssemblyInfo.cache
-/Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/PersonRegistrationSystem.sourcelink.json
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/staticwebassets.build.json
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/staticwebassets.development.json
 /Users/vishwajitsingh/Projects/PersonRegistrationSystem/PersonRegistrationSystem/obj/Debug/net8.0/staticwebassets/msbuild.PersonRegistrationSystem.Microsoft.AspNetCore.StaticWebAssets.props
